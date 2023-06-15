@@ -49,7 +49,3 @@ Training model as follows:
 ### AERJE Using
 
 1.Get trained model and run `AERJE_Use.py`, you can quickly use AERJE to extraction API entity and relation from text.
-
-## License
-The code is released under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License for Noncommercial use only.
-Any commercial use should get formal permission first.
