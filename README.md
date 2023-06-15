@@ -32,9 +32,9 @@ Run `dataset_processing/Convert_AERJE.py` convert labeled data to data that trai
 ### Pretrained Models
 You download the pre-trained models
 
-AERJE-extractor-en-base(Bert)
+AERJE-extractor-en-base ([Bert based model](https://huggingface.co/bert-base-uncased))
 
-AERJE-generator-en-base(T5)
+AERJE-generator-en-base ([T5 based model](https://drive.google.com/file/d/12Dkh6KLDPvXrkQ1I-1xLqODQSYjkwnvs/view?pli=1)/([T5 large model](https://drive.google.com/file/d/12Dkh6KLDPvXrkQ1I-1xLqODQSYjkwnvs/view?pli=1))
 
 Put all models to `base_models/` for training.
 
