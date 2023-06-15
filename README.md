@@ -6,7 +6,7 @@
 - The project is under construction...
 
 ## Update
-- [2023-01-30] Update data preprocessing code.
+....
 
 ## Requirements
 - Python (verified on 3.8)
