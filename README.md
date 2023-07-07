@@ -1,12 +1,10 @@
 # AERJE
 
 - Code for [``API Entity and Relation Joint Extraction From Text via Dynamic Prompt-tuned Languange Model``](https://www.semanticscholar.org/reader/fa9d49f32440aff7417ce46419d1073239b58b5b)
-- The Data Link: [https://anonymous.4open.science/r/AERJE-F7D5/README.md](https://drive.google.com/file/d/1X6pQQhIspNHj2y6GlJaNW0bt3VaQjkXe/view?usp=sharing)
 - Please contact ybsun@jxnu.edu.cn for questions and suggestions.
-- The project is under construction...
 
 ## Update
-....
+- [2023-01-30] Update data preprocessing code.
 
 ## Requirements
 - Python (verified on 3.8)
@@ -32,9 +30,9 @@ Run `dataset_processing/Convert_AERJE.py` convert labeled data to data that trai
 ### Pretrained Models
 You download the pre-trained models
 
-AERJE-extractor-en-base ([Bert based model](https://huggingface.co/bert-base-uncased))
+AERJE-extractor-en-base(Bert)
 
-AERJE-generator-en-base ([T5-base](https://drive.google.com/file/d/12Dkh6KLDPvXrkQ1I-1xLqODQSYjkwnvs/view?pli=1) / [T5-large](https://drive.google.com/file/d/12Dkh6KLDPvXrkQ1I-1xLqODQSYjkwnvs/view?pli=1))
+AERJE-generator-en-base(T5)
 
 Put all models to `base_models/` for training.
 
@@ -49,3 +47,7 @@ Training model as follows:
 ### AERJE Using
 
 1.Get trained model and run `AERJE_Use.py`, you can quickly use AERJE to extraction API entity and relation from text.
+
+## License
+The code is released under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License for Noncommercial use only.
+Any commercial use should get formal permission first.
