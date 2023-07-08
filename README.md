@@ -13,12 +13,12 @@
 ## Quick Start
 
 ### Download Dataset
-[Dataset_Url](https://drive.google.com/file/d/1X6pQQhIspNHj2y6GlJaNW0bt3VaQjkXe/view)
+[Dataset](https://drive.google.com/file/d/1X6pQQhIspNHj2y6GlJaNW0bt3VaQjkXe/view)
 
 ### Download Pretrained Models
-Dynamic prompt generator ([BERT-based classifier](https://huggingface.co/bert-base-uncased))
+Dynamic Prompt Generator ([BERT-based classifier model](https://huggingface.co/bert-base-uncased))
 
-Joint extractor ([T5-based extractor](https://drive.google.com/file/d/15OFkWw8kJA1k2g_zehZ0pxcjTABY2iF1/view))
+Joint Extractor ([T5-based extractor model](https://drive.google.com/file/d/15OFkWw8kJA1k2g_zehZ0pxcjTABY2iF1/view))
 
 Put all models to `base_models/` for training.
 
