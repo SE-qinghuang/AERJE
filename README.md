@@ -15,12 +15,14 @@
 ### Download Dataset
 [AERJE_Dataset](https://drive.google.com/file/d/1X6pQQhIspNHj2y6GlJaNW0bt3VaQjkXe/view)
 
+Create 'dataset' file and put all data to 'dataset'.
+
 ### Download Pretrained Models
 Dynamic Prompt Generator ([BERT-Based Classifier Model](https://huggingface.co/bert-base-uncased))
 
 Joint Extractor ([T5-Based Extractor Model](https://drive.google.com/file/d/15OFkWw8kJA1k2g_zehZ0pxcjTABY2iF1/view))
 
-Put all models to `hf_models/` for training.
+Create 'hf_models' and put all models to 'hf_models/' for training.
 
 ### Model Training
 
