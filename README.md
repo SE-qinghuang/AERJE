@@ -20,7 +20,7 @@ Dynamic Prompt Generator ([BERT-Based Classifier Model](https://huggingface.co/b
 
 Joint Extractor ([T5-Based Extractor Model](https://drive.google.com/file/d/15OFkWw8kJA1k2g_zehZ0pxcjTABY2iF1/view))
 
-Put all models to `base_models/` for training.
+Put all models to `hf_models/` for training.
 
 ### Model Training
 
