@@ -95,7 +95,7 @@ def train_model(model, train_loader,
             print("Epoch {:04d} | Step {:04d}/{:04d} | Loss {:.4f} ".format(
                     i + 1, idx + 1, len(train_loader), train_loss_sum / (idx + 1)))
 
-        torch.save(model.state_dict(), "../classifier_data/save_bert_model/")
+        torch.save(model.state_dict(), "../hf_models/save_bert_model/best_bert_model.pth")
 
 if __name__ =='__main__':
 
@@ -133,7 +133,7 @@ if __name__ =='__main__':
     train_model(model, train_loader, optimizer, scheduler, DEVICE, EPOCHS)
 
     # 加载最优权重对测试集测试
-    model.load_state_dict(torch.load("../classifier_data/save_bert_model/best_bert_model.pth"))
+    model.load_state_dict(torch.load("../hf_models/save_bert_model/best_bert_model.pth"))
     pred_test = predict(model, test_loader, DEVICE)
     print("\n Test Accuracy = {} \n".format(accuracy_score(y_test, pred_test)))
     print(classification_report(y_test, pred_test, digits=4))
