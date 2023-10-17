@@ -12,11 +12,6 @@
 
 ## Quick Start
 
-### Download Dataset
-[AERJE_Dataset](https://drive.google.com/file/d/1X6pQQhIspNHj2y6GlJaNW0bt3VaQjkXe/view)
-
-Create 'dataset' file and put all data to 'dataset'.
-
 ### Download Pretrained Models
 Dynamic Prompt Generator ([BERT-Based Classifier Model](https://huggingface.co/bert-base-uncased))
 
