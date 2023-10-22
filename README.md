@@ -11,7 +11,6 @@
 - CUDA (verified on 11.1/10.2)
 
 ## Quick Start
-Datalink：https://drive.google.com/file/d/1X6pQQhIspNHj2y6GlJaNW0bt3VaQjkXe/view?usp=sharing
 
 ### Download Pretrained Models
 Dynamic Prompt Generator ([BERT-Based Classifier Model](https://huggingface.co/bert-base-uncased))
