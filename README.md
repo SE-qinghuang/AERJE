@@ -12,6 +12,8 @@
 
 ## Quick Start
 
+### Data Link：https://drive.google.com/file/d/1X6pQQhIspNHj2y6GlJaNW0bt3VaQjkXe/view?usp=drive_link
+
 ### Download Pretrained Models
 Dynamic Prompt Generator ([BERT-Based Classifier Model](https://huggingface.co/bert-base-uncased))
 
