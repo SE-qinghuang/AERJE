@@ -1,6 +1,6 @@
 # AERJE
 
-- Code for [``API Entity and Relation Joint Extraction From Text via Dynamic Prompt-tuned Languange Model``]
+- Code for ``API Entity and Relation Joint Extraction From Text via Dynamic Prompt-tuned Languange Model``
 - Please contact ybsun@jxnu.edu.cn for questions and suggestions.
 
 ## Update
