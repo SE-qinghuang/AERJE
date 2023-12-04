@@ -4,7 +4,7 @@
 - Please contact ybsun@jxnu.edu.cn for questions and suggestions.
 
 ## Update
-- [2023-07-08] Update main code.
+- [2023-12-04] update refactored code.
 
 ## Quick Start
 
