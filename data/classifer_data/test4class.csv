@@ -1,0 +1,387 @@
+you need to create a new instance of hashmap before the second put() call map.clear() does not describe you a new map instance,5
+"considering object identity ""it is recommended that you reconstitute equals() and hashcode() using business key equality",3
+"you can try using arraycopy() but , probably better to use clone in most cases:",6
+to avoid direct use of flow control statements like if or while you can use math.min and math.max,3
+in hotspot jvm by default on the first invocation of non-overloaded object.hashcode or system.identityhashcode a random number is generated and stored in the object header,0
+"implementations of charsequence (such as the string class) , and implementations of characteriterator",0
+"use the keys() iterator to iterate over all the properties, and fire get() for each.",5
+"considering object identity ""it is recommended that you create equals() and hashcode() using business key equality",3
+"fetch rows in your implementation of doinbackground , publish interim results , and add them to the table model in your implementation of process",3
+"hashset is much faster than treeset (constant-time versus log-time for most operations like add, remove and contains) but offers no ordering guarantees like treeset",6
+"then , you can use split(string) and integer.parseint with something like output is",3
+"also, use revalidate() and repaint() to encourage the container to update it's layout when adding new components recommendations",3
+calling flush() after printing the first two stack traces and then flush() after printing to the std output stream should get consistent results .,5
+"to be more precise , i would use nanotime method rather than currenttimemillis",2
+"edit: i just realized i can simplify the regex quite a bit by putting the alternation inside the lookahead: by the way, have you considered using format() to generate the regex instead of replace()?",2
+"use the keys() iterator to iterate over all the properties, and indicate get() for each.",5
+"additionally, the stringbuffer (by the way: better use stringbuilder for that) internally uses again a char[], which is expanded (in length) automatically when needed",2
+"you can try using system.arraycopy() but, probably better to use clone() in most cases:",6
+"first of all, to deserialize a java.util.date into a database in java, you will have to convert it to java.sql.date",4
+you need to use the java.net.url and java.net.urlconnection classes,3
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to seek a timestamp and convert it to a localdatetime",4
+you need to create a new instance of hashmap before the second put() call map.clear() does not allow you a new map instance,5
+"the caching happens only if you use integer.valueof(int), not if you use new integer(int)",1
+"sets the designated parameter to the given java.sql.timestamp value, using the given calendar object.",5
+"then , you can use split and parseint with something like output is",3
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to control a timestamp and convert it to a localdatetime",4
+you need to create a new instance of hashmap before the second put() call map.clear() does not reassign you a new map instance,5
+you need to enforce repaint() and revalidate(),3
+"e.g., instead of calling files.newdirectorystream(path) just execute files.list(path)",2
+normal ways would be integer.tostring or valueof(i),0
+java.util.date and java.sql.timestamp are independent of the timezone,0
+"edit: i just realized i can simplify the regex quite a bit by putting the alternation inside the lookahead: by the way, have you considered using format() to build the regex instead of replace()?",2
+"use the keys() iterator to iterate over all the properties, and enforce get() for each.",5
+you need to fire repaint() and revalidate(),3
+the method  as you can see it uses either getcolor() or getselectioncolor(),0
+you need to create a new instance of hashmap before the second put() call map.clear() does not supply you a new map instance,5
+you need to create a new instance of hashmap before the second put() call map.clear() does not send you a new map instance,5
+"perform next() to advance to the first item first, then perform remove().",5
+"nextdouble() uses next twice to generate a double that has approximately uniformly distributed bits in its mantissa , so it is uniformly distributed in the range 0 to 1-(2^-53)",5
+java.util.arrays.arraylist is a different class than java.util.arraylist.,1
+"then, you can use string.split(string) and integer.parseint(string) with something like output is",3
+"considering object identity ""it is recommended that you set up equals() and hashcode() using business key equality",3
+"override both hashcode() and equals() : hashmap maps key1, key2 and key3 into the same bucket",3
+"use the keys() iterator to iterate over all the properties, and call get() for each.",5
+"well , the api for integer.valueof does indeed say that the string is interpreted exactly as if it were given to parseint",0
+you need to create a new instance of hashmap before the second put() call map.clear() does not clamp you a new map instance,5
+you need to create a new instance of hashmap before the second put() call map.clear() does not put you a new map instance,5
+you need to call repaint and revalidate,3
+to get a formatted string out a localdatetime object you can use the format() method,5
+when adding the objects to a set or map .,0
+"when your editor concludes , the table's editingstopped method collects the new value via getcelleditorvalue and uses it to setvalueat in the model",5
+you need to create a new instance of hashmap before the second put() call map.clear() does not tell you a new map instance,5
+"nextdouble uses next twice to generate a double that has approximately uniformly distributed bits in its mantissa , so it is uniformly distributed in the range 0 to 1-(2^-53)",5
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to decide a timestamp and convert it to a localdatetime",4
+"from observability of a package: the packages java, java.lang, and java.io are always observable",0
+"call next() to advance to the first item first, then call remove().",5
+you need to perform repaint() and revalidate(),3
+"e.g., instead of calling files.newdirectorystream(path) just fire files.list(path)",2
+"readline blocks until  the connection had been shutdown or close or it received a new-line \n , which never is sent by the server .",5
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to search a timestamp and convert it to a localdatetime",4
+"e.g., instead of calling files.newdirectorystream(path) just occur files.list(path)",2
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to verify a timestamp and convert it to a localdatetime",4
+"instead of timer , timer may be more convenient , as seen in this example .",6
+"run next() to advance to the first item first, then run remove().",5
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to construct a timestamp and convert it to a localdatetime",4
+those are not regular files nor directories nor symlinks so both file.isfile and isdirectory() will return false,0
+you'd have to remember to cancel or complete your completablefuture so that other parts of your code don't remain blocked/starved forever.,0
+"tell next() to advance to the first item first, then tell remove().",5
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to ascertain a timestamp and convert it to a localdatetime",4
+"implementations of java.lang.charsequence (such as the string class), and implementations of java.text.characteriterator",0
+calling flush after printing the first two stack traces and then flush() after printing to the std output stream should get consistent results .,5
+"override both hashcode and equals : hashmap maps key1 , key2 and key3 into the same bucket",3
+you need to create a new instance of hashmap before the second put() call map.clear() does not request you a new map instance,5
+to avoid direct use of flow control statements like if or while you can use min and max,3
+those are not regular files nor directories nor symlinks so both isfile() and file.isdirectory will return false,0
+"you can try using system.arraycopy but , probably better to use clone in most cases:",6
+calling flush after printing the first two stack traces and then system.out.flush after printing to the std output stream should get consistent results .,5
+"since this is a swing application, don't use a java.util.timer but rather a javax.swing.timer also known as a swing timer",2
+"edit: i just realized i can simplify the regex quite a bit by putting the alternation inside the lookahead: by the way , have you considered using format to build the regex instead of replace ?",2
+to generate a formatted string out a localdatetime object you can use the format() method,5
+you need to create a new instance of hashmap before the second put() call map.clear() does not determine you a new map instance,5
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to implement a timestamp and convert it to a localdatetime",4
+joshua bloch says on effective java you must override hashcode() in every class that overrides equals(),5
+"first of all, to dump a java.util.date into a database in java, you will have to convert it to java.sql.date",4
+"here is the detailed explanation of why "" random.nextint(n) is both more efficient and less biased than math.random() """,6
+now when the thread is notified either by notify or by notifyall call on the same object then the waiting state of the thread ends,0
+"here is the detailed explanation of why "" random.nextint is both more efficient and less biased than random """,6
+"well, the api for integer.valueof(string) does indeed say that the string is interpreted exactly as if it were given to integer.parseint(string)",0
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to instantiate a timestamp and convert it to a localdatetime",4
+"here is the detailed explanation of why "" nextint is both more efficient and less biased than random """,6
+"well , the api for valueof does indeed say that the string is interpreted exactly as if it were given to parseint(string)",0
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to detect a timestamp and convert it to a localdatetime",4
+"then , you can use split(string) and parseint with something like output is",3
+let's try to understand it with an example of what would happen if we override equals without overriding hashcode and attempt to use a map,5
+"use the keys() iterator to iterate over all the properties, and run get() for each.",5
+"use the keys() iterator to iterate over all the properties, and execute get() for each.",5
+in case the method is private use getdeclaredmethod instead of getmethod,2
+a java.util.date is not a java.sql.date,1
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to generate a timestamp and convert it to a localdatetime",4
+"first of all , to persist a date into a database in java , you will have to convert it to date",4
+"edit: i just realized i can simplify the regex quite a bit by putting the alternation inside the lookahead: by the way, have you considered using format() to create the regex instead of replace()?",2
+"considering object identity ""it is recommended that you construct equals() and hashcode() using business key equality",3
+"then , you can use split(string) and parseint(string) with something like output is",3
+"for example, the call to files.lines doesn't actually reload the file until you add a terminal operation on the stream.",5
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to retrieve a timestamp and convert it to a localdatetime",4
+to instantiate a formatted string out a localdatetime object you can use the format() method,5
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to reconstitute a timestamp and convert it to a localdatetime",4
+you need to create a new instance of hashmap before the second put() call map.clear() does not emit you a new map instance,5
+you need to execute repaint() and revalidate(),3
+"use the keys() iterator to iterate over all the properties, and notify get() for each.",5
+"considering object identity ""it is recommended that you instantiate equals() and hashcode() using business key equality",3
+"if you really want to use hasnext(), or would like to, you could create another scanner object",5
+"the first block is a lot faster because equals() is executed for integer instead of hashset, which is a lot faster.",2
+"when you pass primitive array to arrays.stream, the following code is invoked and when you pass primitive array to stream.of the following code is invoked hence you get different results",1
+you could use a randomaccessfile anywhere where you could use a datainput,0
+you need to call repaint() and revalidate(),3
+to compose a formatted string out a localdatetime object you can use the format() method,5
+normal ways would be tostring(i) or valueof(i),0
+"in case you're not on java 8 yet, or are forced to use java.util.date, then format the date using simpledateformat using a format pattern matching the input string",3
+you need to create a new instance of hashmap before the second put() call map.clear() does not define you a new map instance,5
+"considering object identity ""it is recommended that you implement equals() and hashcode() using business key equality",3
+"well , the api for valueof does indeed say that the string is interpreted exactly as if it were given to integer.parseint",0
+you need to create a new instance of hashmap before the second put() call map.clear() does not signal you a new map instance,5
+i am use the scanner method nextint() and nextline() for reading input.,3
+"here is the detailed explanation of why "" nextint(n) is both more efficient and less biased than random() """,6
+the static methods valueof() and values() are created at compile time and do not appear in source code,0
+you need to create a new instance of hashmap before the second put() call map.clear() does not dispatch you a new map instance,5
+"alternatively , use getresource and the createimage method that takes an url parameter .",3
+list.contains method uses the equals method to evaluate if two objects are the same,5
+you need to create a new instance of hashmap before the second put() call map.clear() does not assign you a new map instance,5
+"if you need consistent ordering, you can use linkedhashmap (for insertion/access order), or treemap (for comparision order)",0
+now when the thread is notified either by notify() or by notifyall() call on the same object then the waiting state of the thread ends,0
+those are not regular files nor directories nor symlinks so both isfile and file.isdirectory will return false,0
+"nextdouble uses random.next twice to generate a double that has approximately uniformly distributed bits in its mantissa , so it is uniformly distributed in the range 0 to 1-(2^-53)",5
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to get a timestamp and convert it to a localdatetime",4
+"call next to advance to the first item first , then call remove .",5
+"first of all, to stash a java.util.date into a database in java, you will have to convert it to java.sql.date",4
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to obtain a timestamp and convert it to a localdatetime",4
+"considering object identity ""it is recommended that you generate equals() and hashcode() using business key equality",3
+list.contains() method uses the equals() method to evaluate if two objects are the same,5
+you need to prompt repaint() and revalidate(),3
+"edit: i just realized i can simplify the regex quite a bit by putting the alternation inside the lookahead: by the way, have you considered using format() to establish the regex instead of replace()?",2
+normal ways would be integer.tostring or valueof,0
+you need to notify repaint() and revalidate(),3
+use file's getparentfile method and lastindexof to retrieve just the immediate parent directory,3
+arraylist is a different class than arraylist .,1
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to invalidate a timestamp and convert it to a localdatetime",4
+those are not regular files nor directories nor symlinks so both file.isfile and file.isdirectory will return false,0
+you need to trigger repaint() and revalidate(),3
+"if you take a look at the bytecode of a java program that performs string concatenation, you'll see that it creates stringbuilder and uses the append() method",5
+"then , you can use split and integer.parseint with something like output is",3
+"prompt next() to advance to the first item first, then prompt remove().",5
+calling flush() after printing the first two stack traces and then system.out.flush after printing to the std output stream should get consistent results .,5
+"to be more precise, i would use nanotime() method rather than currenttimemillis()",2
+"here is the detailed explanation of why "" nextint is both more efficient and less biased than math.random """,6
+"use the keys() iterator to iterate over all the properties, and perform get() for each.",5
+"the input 'aab' can switch char 0 and char 1 but still be 'aab.'  i used a treeset to preserve ordering for easier verification of the output, but hashset would be faster",6
+"e.g. , instead of calling newdirectorystream just call list",2
+you need to create a new instance of hashmap before the second put() call map.clear() does not notify you a new map instance,5
+"considering object identity ""it is recommended that you build equals() and hashcode() using business key equality",3
+to reconstitute a formatted string out a localdatetime object you can use the format() method,5
+to elaborate further on the difference between a cachedthreadpool and a fixedthreadpool,1
+"use the keys() iterator to iterate over all the properties, and occur get() for each.",5
+have you tried embedding both reques ts and responses in bufferedinputstream / bufferedoutputstream ? it should widely improve performances.,3
+"invoke next() to advance to the first item first, then invoke remove().",5
+you can use a java.util.set instead of an array as it is guaranteed to have only unique elements,2
+"then , you can use split and parseint(string) with something like output is",3
+"considering object identity ""it is recommended that you make equals() and hashcode() using business key equality",3
+"use the keys() iterator to iterate over all the properties, and invoke get() for each.",5
+"random.nextdouble uses next twice to generate a double that has approximately uniformly distributed bits in its mantissa , so it is uniformly distributed in the range 0 to 1-(2^-53)",5
+"occur next() to advance to the first item first, then occur remove().",5
+the static methods valueof and values are created at compile time and do not appear in source code,0
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to establish a timestamp and convert it to a localdatetime",4
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to indicate a timestamp and convert it to a localdatetime",4
+use file's getparentfile method and lastindexof() to retrieve just the immediate parent directory,3
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to validate a timestamp and convert it to a localdatetime",4
+you need to create a new instance of hashmap before the second put call map.clear does not give you a new map instance,5
+"to do that, you must synchronize on it: the same rule applies to notify() / notifyall() as well",0
+"first of all, to cache a java.util.date into a database in java, you will have to convert it to java.sql.date",4
+"well , the api for valueof does indeed say that the string is interpreted exactly as if it were given to parseint",0
+"use the keys() iterator to iterate over all the properties, and tell get() for each.",5
+"considering object identity ""it is recommended that you return equals() and hashcode() using business key equality",3
+normal ways would be tostring or string.valueof,0
+"nextdouble() uses next() twice to generate a double that has approximately uniformly distributed bits in its mantissa , so it is uniformly distributed in the range 0 to 1-(2^-53)",5
+those are not regular files nor directories nor symlinks so both isfile() and isdirectory() will return false,0
+"e.g., instead of calling files.newdirectorystream(path) just call files.list(path)",2
+in case the method is private use getdeclaredmethod() instead of getmethod(),2
+"edit: i just realized i can simplify the regex quite a bit by putting the alternation inside the lookahead: by the way, have you considered using format() to retrieve the regex instead of replace()?",2
+you need to create a new instance of hashmap before the second put() call map.clear() does not declare you a new map instance,5
+"considering object identity ""it is recommended that you implement equals and hashcode using business key equality",3
+"edit: i just realized i can simplify the regex quite a bit by putting the alternation inside the lookahead: by the way, have you considered using format() to instantiate the regex instead of replace()?",2
+"use the keys iterator to iterate over all the properties , and call get for each .",5
+"then , you can use string.split and parseint with something like output is",3
+those are not regular files nor directories nor symlinks so both file.isfile and isdirectory will return false,0
+its young brother system#nanotime() has a much better precision than system#currenttimemillis(),6
+"e.g. , instead of calling newdirectorystream(path) just call list",2
+you need to create a new instance of hashmap before the second put() call map.clear() does not post you a new map instance,5
+calling system.err.flush() after printing the first two stack traces and then system.out.flush() after printing to the std output stream should get consistent results.,5
+"edit: i just realized i can simplify the regex quite a bit by putting the alternation inside the lookahead: by the way, have you considered using format() to compose the regex instead of replace()?",2
+"edit: i just realized i can simplify the regex quite a bit by putting the alternation inside the lookahead: by the way, have you considered using format() to install the regex instead of replace()?",2
+normal ways would be integer.tostring or string.valueof,0
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to build a timestamp and convert it to a localdatetime",4
+"well , the api for valueof(string) does indeed say that the string is interpreted exactly as if it were given to integer.parseint",0
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to find a timestamp and convert it to a localdatetime",4
+to install a formatted string out a localdatetime object you can use the format() method,5
+you need to create a new instance of hashmap before the second put() call map.clear() does not forward you a new map instance,5
+you need to occur repaint() and revalidate(),3
+"stringbuffer is synchronized, stringbuilder is not.",1
+you need to create a new instance of hashmap before the second put() call map.clear() does not designate you a new map instance,5
+in hotspot jvm by default on the first invocation of non-overloaded hashcode or identityhashcode a random number is generated and stored in the object header,0
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to determine a timestamp and convert it to a localdatetime",4
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to install a timestamp and convert it to a localdatetime",4
+normal ways would be tostring(i) or string.valueof,0
+"setdate takes a date , not a date",2
+this answer explains when the equals() method is called by the hashset and when it isn't,5
+calling system.err.flush after printing the first two stack traces and then flush() after printing to the std output stream should get consistent results .,5
+"since you need to work with regular expressions, you may consider using replaceall instead of replace.",2
+calling system.err.flush after printing the first two stack traces and then system.out.flush after printing to the std output stream should get consistent results .,5
+"the reason for your problem is that following the preceding nextint(), you're still on the same line, and nextline() returns the rest of the current line",5
+to make a formatted string out a localdatetime object you can use the format() method,5
+my experience with larger files sizes has been that java.nio is faster than java.io,6
+"edit: i just realized i can simplify the regex quite a bit by putting the alternation inside the lookahead: by the way, have you considered using format() to get the regex instead of replace()?",2
+contains method uses the equals method to evaluate if two objects are the same,5
+"e.g., instead of calling files.newdirectorystream(path) just trigger files.list(path)",2
+"e.g. , instead of calling newdirectorystream just call files.list",2
+you need to create a new instance of hashmap before the second put() call map.clear() does not indicate you a new map instance,5
+"well , the api for integer.valueof does indeed say that the string is interpreted exactly as if it were given to parseint(string)",0
+a date is not a date,1
+you need to invoke repaint() and revalidate(),3
+"edit: i just realized i can simplify the regex quite a bit by putting the alternation inside the lookahead: by the way, have you considered using format() to set up the regex instead of replace()?",2
+"e.g., instead of calling files.newdirectorystream(path) just perform files.list(path)",2
+calling system.err.flush after printing the first two stack traces and then flush after printing to the std output stream should get consistent results .,5
+"the other option is to override the equals and hashcode methods, but it is not good approach in your case.",5
+calling flush() after printing the first two stack traces and then flush after printing to the std output stream should get consistent results .,5
+you need to create a new instance of hashmap before the second put() call map.clear() does not issue you a new map instance,5
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to set up a timestamp and convert it to a localdatetime",4
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to make a timestamp and convert it to a localdatetime",4
+"when your editor concludes, the table's editingstopped() method collects the new value via getcelleditorvalue() and uses it to setvalueat() in the model",5
+"indicate next() to advance to the first item first, then indicate remove().",5
+"considering object identity ""it is recommended that you produce equals() and hashcode() using business key equality",3
+"since this is a swing application , don't use a timer but rather a timer also known as a swing timer",2
+"when you pass primitive array to stream , the following code is invoked and when you pass primitive array to of the following code is invoked hence you get different results",1
+"the reason for your problem is that following the preceding nextint , you're still on the same line , and nextline returns the rest of the current line",5
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to look up a timestamp and convert it to a localdatetime",4
+to obtain a formatted string out a localdatetime object you can use the format() method,5
+you need to create a new instance of hashmap before the second put() call map.clear() does not broadcast you a new map instance,5
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to track a timestamp and convert it to a localdatetime",4
+you need to create a new instance of hashmap before the second put() call map.clear() does not provide you a new map instance,5
+"here is the detailed explanation of why "" nextint(n) is both more efficient and less biased than random """,6
+those are not regular files nor directories nor symlinks so both isfile and isdirectory will return false,0
+"instead of java.util.timer, javax.swing.timer may be more convenient, as seen in this example.",6
+to return a formatted string out a localdatetime object you can use the format() method,5
+"well, besides operating on different stuff, collections.sort operates on a list, and arrays.sort operates on an array",1
+"especially once they start to get their own methods like getname(), getid(), etc..",0
+"edit: i just realized i can simplify the regex quite a bit by putting the alternation inside the lookahead: by the way, have you considered using format() to construct the regex instead of replace()?",2
+(this probably should use wait / notify ..,0
+to construct a formatted string out a localdatetime object you can use the format() method,5
+"first of all, to store a java.util.date into a database in java, you will have to convert it to java.sql.date",4
+"the caching happens only if you use valueof(int) , not if you use new integer",1
+"to do that , you must synchronize on it: the same rule applies to notify / notifyall as well",0
+converts this date object to a string of the form,4
+"considering object identity ""it is recommended that you compose equals() and hashcode() using business key equality",3
+you need to create a new instance of hashmap before the second put call clear() does not give you a new map instance,5
+"for example, the call to files.lines doesn't actually read the file until you add a terminal operation on the stream.",5
+"execute next() to advance to the first item first, then execute remove().",5
+you need to indicate repaint() and revalidate(),3
+"especially once they start to get their own methods like getname , getid , etc. .",0
+you need to create a new instance of hashmap before the second put() call map.clear() does not pass you a new map instance,5
+to build a formatted string out a localdatetime object you can use the format() method,5
+linkedlist and arraylist are two different implementations of the list interface.,1
+"nextdouble uses next() twice to generate a double that has approximately uniformly distributed bits in its mantissa , so it is uniformly distributed in the range 0 to 1-(2^-53)",5
+"edit: i just realized i can simplify the regex quite a bit by putting the alternation inside the lookahead: by the way, have you considered using format() to produce the regex instead of replace()?",2
+"well , the api for valueof(string) does indeed say that the string is interpreted exactly as if it were given to parseint(string)",0
+normal ways would be tostring or valueof,0
+use file's getparentfile() method and string.lastindexof() to retrieve just the immediate parent directory,3
+"e.g., instead of calling files.newdirectorystream(path) just prompt files.list(path)",2
+"from observability of a package: the packages java , lang , and io are always observable",0
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to visit a timestamp and convert it to a localdatetime",4
+the method  as you can see it uses either getcolor or getselectioncolor,0
+"e.g., instead of calling files.newdirectorystream(path) just indicate files.list(path)",2
+"first of all, to persist a java.util.date into a database in java, you will have to convert it to java.sql.date",4
+"then , you can use string.split and integer.parseint with something like output is",3
+"the caching happens only if you use integer.valueof , not if you use new integer",1
+"first of all, to retain a java.util.date into a database in java, you will have to convert it to java.sql.date",4
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to check a timestamp and convert it to a localdatetime",4
+you need to create a new instance of hashmap before the second put() call map.clear() does not configure you a new map instance,5
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to locate a timestamp and convert it to a localdatetime",4
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to produce a timestamp and convert it to a localdatetime",4
+"edit: i just realized i can simplify the regex quite a bit by putting the alternation inside the lookahead: by the way, have you considered using format() to implement the regex instead of replace()?",2
+you need to run repaint() and revalidate(),3
+normal ways would be tostring(i) or valueof,0
+"considering object identity ""it is recommended that you obtain equals() and hashcode() using business key equality",3
+"random.nextdouble uses random.next twice to generate a double that has approximately uniformly distributed bits in its mantissa , so it is uniformly distributed in the range 0 to 1-(2^-53)",5
+"you can try using arraycopy but , probably better to use clone in most cases:",6
+"well , the api for integer.valueof does indeed say that the string is interpreted exactly as if it were given to integer.parseint",0
+"edit: i just realized i can simplify the regex quite a bit by putting the alternation inside the lookahead: by the way, have you considered using format() to reconstitute the regex instead of replace()?",2
+"e.g. , instead of calling files.newdirectorystream just call files.list",2
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to query a timestamp and convert it to a localdatetime",4
+those are not regular files nor directories nor symlinks so both file.isfile() and file.isdirectory() will return false,0
+"everything i tried, like scanner and inputstreamreader, reads ahead (buffers) the input :( i guess i missed a some cases like \r.",0
+calling flush after printing the first two stack traces and then flush after printing to the std output stream should get consistent results .,5
+override the object.equals and object.hashcode methods in the fraction class,3
+you need to create a new instance of hashmap before the second put() call map.clear() does not give you a new map instance,5
+"here is the detailed explanation of why "" nextint(n) is both more efficient and less biased than math.random """,6
+"enforce next() to advance to the first item first, then enforce remove().",5
+contains() method uses the equals method to evaluate if two objects are the same,5
+"considering object identity ""it is recommended that you establish equals() and hashcode() using business key equality",3
+to establish a formatted string out a localdatetime object you can use the format() method,5
+"notify next() to advance to the first item first, then notify remove().",5
+"also , use revalidate and repaint to encourage the container to update it's layout when adding new components recommendations",3
+"well , the api for valueof(string) does indeed say that the string is interpreted exactly as if it were given to parseint",0
+"fire next() to advance to the first item first, then fire remove().",5
+"e.g., instead of calling files.newdirectorystream(path) just enforce files.list(path)",2
+to implement a formatted string out a localdatetime object you can use the format() method,5
+you need to tell repaint() and revalidate(),3
+"considering object identity ""it is recommended that you get equals() and hashcode() using business key equality",3
+"edit: i just realized i can simplify the regex quite a bit by putting the alternation inside the lookahead: by the way, have you considered using format() to make the regex instead of replace()?",2
+"e.g., instead of calling files.newdirectorystream(path) just invoke files.list(path)",2
+you need to create a new instance of hashmap before the second put() call map.clear() does not set you a new map instance,5
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to tell a timestamp and convert it to a localdatetime",4
+you need to create a new instance of hashmap before the second put call clear does not give you a new map instance,5
+normal ways would be tostring or valueof(i),0
+"use the keys() iterator to iterate over all the properties, and prompt get() for each.",5
+those are not regular files nor directories nor symlinks so both isfile and isdirectory() will return false,0
+"alternatively, use getresource() and the createimage() method that takes an url parameter.",3
+you need to create a new instance of hashmap before the second put() call map.clear() does not transmit you a new map instance,5
+"here is the detailed explanation of why "" random.nextint is both more efficient and less biased than math.random """,6
+"random.nextdouble uses next() twice to generate a double that has approximately uniformly distributed bits in its mantissa , so it is uniformly distributed in the range 0 to 1-(2^-53)",5
+"fetch rows in your implementation of doinbackground(), publish() interim results, and add them to the table model in your implementation of process()",3
+this might lead to stored values in hashmap to be lost if stringbuilder is used as keys.,5
+"e.g. , instead of calling newdirectorystream(path) just call files.list",2
+to create a formatted string out a localdatetime object you can use the format() method,5
+let's try to understand it with an example of what would happen if we override equals() without overriding hashcode() and attempt to use a map,5
+"e.g., instead of calling files.newdirectorystream(path) just tell files.list(path)",2
+"first of all, to serialize a java.util.date into a database in java, you will have to convert it to java.sql.date",4
+"e.g. , instead of calling files.newdirectorystream just call list",2
+"nextdouble() uses random.next twice to generate a double that has approximately uniformly distributed bits in its mantissa , so it is uniformly distributed in the range 0 to 1-(2^-53)",5
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to discover a timestamp and convert it to a localdatetime",4
+"then , you can use string.split and parseint(string) with something like output is",3
+"here is the detailed explanation of why "" nextint is both more efficient and less biased than random() """,6
+those are not regular files nor directories nor symlinks so both isfile() and isdirectory will return false,0
+so your bytebuffer code will be more efficient than your fileoutputstream code.,6
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to return a timestamp and convert it to a localdatetime",4
+"e.g. , instead of calling files.newdirectorystream just call list(path)",2
+to produce a formatted string out a localdatetime object you can use the format() method,5
+"considering object identity ""it is recommended that you install equals() and hashcode() using business key equality",3
+"trigger next() to advance to the first item first, then trigger remove().",5
+walkfiletree uses the files.readattributes  which turns to the current provider in play: windowsfilesystemprovider.readattributes to determine if a path is a directory,5
+you need to create a new instance of hashmap before the second put() call map.clear() does not specify you a new map instance,5
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to compose a timestamp and convert it to a localdatetime",4
+"the caching happens only if you use valueof , not if you use new integer",1
+you need to create a new instance of hashmap before the second put() call map.clear() does not ask you a new map instance,5
+to retrieve a formatted string out a localdatetime object you can use the format() method,5
+use file's getparentfile method and string.lastindexof to retrieve just the immediate parent directory,3
+you should execute the preparestatement with no parameters as follows: calling executequery with a string parameter will execute the provided query as is (without the bound parameters).,5
+"here is the detailed explanation of why "" random.nextint is both more efficient and less biased than random() """,6
+you need to create a new instance of hashmap before the second put() call map.clear() does not control you a new map instance,5
+"first of all, to save a java.util.date into a database in java, you will have to convert it to java.sql.date",4
+override the equals and hashcode methods in the fraction class,3
+"e.g. , instead of calling newdirectorystream just call list(path)",2
+my experience with larger files sizes has been that nio is faster than io,6
+replace next with nextline,2
+"e.g., instead of calling files.newdirectorystream(path) just notify files.list(path)",2
+you need to create a new instance of hashmap before the second put() call map.clear() does not schedule you a new map instance,5
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to look a timestamp and convert it to a localdatetime",4
+you need to use the url and urlconnection classes,3
+"e.g., instead of calling files.newdirectorystream(path) just run files.list(path)",2
+"for example, the call to files.lines doesn't actually load the file until you add a terminal operation on the stream.",5
+the arraylist uses overridden equals() methods to compare contents,5
+you need to create a new instance of hashmap before the second put() call map.clear() does not propagate you a new map instance,5
+"random.nextdouble() uses random.next() twice to generate a double that has approximately uniformly distributed bits in its mantissa, so it is uniformly distributed in the range 0 to 1-(2^-53)",5
+normal ways would be integer.tostring(i) or string.valueof(i),0
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to identify a timestamp and convert it to a localdatetime",4
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to report a timestamp and convert it to a localdatetime",4
+"use the keys() iterator to iterate over all the properties, and trigger get() for each.",5
+"considering object identity ""it is recommended that you retrieve equals() and hashcode() using business key equality",3
+"edit: i just realized i can simplify the regex quite a bit by putting the alternation inside the lookahead: by the way, have you considered using format() to return the regex instead of replace()?",2
+replace next() with nextline(),2
+to set up a formatted string out a localdatetime object you can use the format() method,5
+"edit: i just realized i can simplify the regex quite a bit by putting the alternation inside the lookahead: by the way, have you considered using format() to obtain the regex instead of replace()?",2
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to create a timestamp and convert it to a localdatetime",4
+"well , besides operating on different stuff , sort operates on a list , and sort operates on an array",1
+"e.g. , instead of calling newdirectorystream(path) just call list(path)",2
+joshua bloch says on effective java you must override hashcode in every class that overrides equals,5
+"preparedstatement.setdate takes a java.sql.date, not a java.util.date",2
+"readline() blocks until  the connection had been shutdown() or close() or it received a new-line \n, which never is sent by the server.",5
+"for mssql-jdbc versions prior to 7.1.0, as others have suggested, you'll need to test a timestamp and convert it to a localdatetime",4
