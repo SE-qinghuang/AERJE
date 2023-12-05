@@ -23,4 +23,4 @@ Training model as follows:
 
 1.Run `classifier/Train_generator.py` to train Generator
 
-2.Run `Train_extractor.py` to train Extractor
+2.Run `main.py` to train Extractor
