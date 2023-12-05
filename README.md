@@ -21,6 +21,6 @@ Create 'hf_models' and put all models to 'hf_models/' for training.
 
 Training model as follows:
 
-1.Run `classifier/Train_generator.py` to train Generator
+1.Run `classifier/my_classifier.py` to train Generator
 
 2.Run `main.py` to train Extractor
