@@ -5,9 +5,6 @@
 ## Update
 - [2023-12-04] update the refactored code.
 
-## Data Link:
-https://drive.google.com/file/d/1X6pQQhIspNHj2y6GlJaNW0bt3VaQjkXe/view?usp=drive_link
-
 ## Quick Start
 ### Download Pretrained Models
 Dynamic Prompt Generator ([BERT-Based Classifier Model](https://huggingface.co/bert-base-uncased))
